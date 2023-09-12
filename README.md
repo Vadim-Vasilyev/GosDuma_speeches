@@ -1,2 +1,2 @@
 # GosDuma_speeches
-Downloading GosDuma deputies specches database using API
+Downloading a database of speeches by State Duma of Russia deputies using the official API
